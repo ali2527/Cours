@@ -1,6 +1,17 @@
 .SigninLayout{
-    background-color: aqua;
+    background-color: #ebe3f8!important;
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
+    height: 100vh!important;
+}
+
+.signinCard{
+    width: 100%!important;
+    border-radius: 20px!important;
+     height: 80vh!important;
+     
+     overflow:hidden!important;
+     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19)!important;
 }
